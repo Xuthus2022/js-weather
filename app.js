@@ -1,4 +1,4 @@
-// Change this constant to calculate your temperature
+// Change this constant (measured in Kelvin) to calculate your other temperatures
 const kelvin = 0
 
 // Converts forecast to celcius
